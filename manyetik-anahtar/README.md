@@ -28,4 +28,4 @@ temassız bir açma/kapama çözümüdür.
 | K3 – GDK Çıkışı (XT60) | Güç dağıtım kartına giden çıkış |
 
 ## Kullanılan Araçlar
-Altium Designer (şematik ve PCB tasarımı)
+Altium Designer 
