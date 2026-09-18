@@ -23,4 +23,4 @@ akım veya kısa devre durumunda devreyi koruyarak sistem güvenliğini artırı
 - Uçuş/kontrol kartı (Pixhawk) için ayrı XT60-P güç girişi
 
 ## Kullanılan Araçlar
-Altium Designer (şematik ve PCB tasarımı)
+Altium Designer 
