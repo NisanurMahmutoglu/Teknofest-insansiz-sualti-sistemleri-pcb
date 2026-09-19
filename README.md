@@ -26,7 +26,7 @@ Hall sensörü ile manyetik alan değişimini algılayarak aracın güç sistemi
 güvenli şekilde açıp kapatan anahtarlama kartı.
 
 ## Kullanılan Araçlar
-Altium Designer · PCB Tasarımı · Devre Tasarımı
+Altium Designer 
 
 ## Notlar
 Her klasörün içinde ilgili karta ait Altium proje dosyaları (.PrjPcb, .SchDoc, .PcbDoc), 
