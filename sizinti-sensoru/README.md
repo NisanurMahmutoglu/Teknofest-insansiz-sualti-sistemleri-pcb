@@ -32,4 +32,4 @@ sağlanır.
 | HEADER (GND, VCC, SIGNAL) | Kartın ana sisteme bağlantı noktası |
 
 ## Kullanılan Araçlar
-Altium Designer (şematik ve PCB tasarımı)
+Altium Designer 
