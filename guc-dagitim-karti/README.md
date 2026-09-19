@@ -2,8 +2,16 @@
 
 İnsansız sualtı aracındaki farklı elektronik bileşenler arasında gücü dengeleyip merkezi 
 bir şekilde yöneten, kablo karmaşasını önleyen ve birden fazla devre elemanını aynı anda 
-besleyen bir güç dağıtım kartıdır. Kart üzerinde bulunan 100A'lik entegre sigorta, aşırı 
-akım veya kısa devre durumunda devreyi koruyarak sistem güvenliğini artırır.
+besleyen bir güç dağıtım kartıdır.
+
+![3D Render](3D.png)
+![PCB Layout](layer.png)
+
+Kart üzerinde bulunan 100A'lik entegre sigorta, aşırı akım veya kısa devre durumunda 
+devreyi koruyarak sistem güvenliğini artırır.
+
+## Şematik
+![Şematik](sematik.png)
 
 ## Devre Blokları
 
@@ -23,4 +31,4 @@ akım veya kısa devre durumunda devreyi koruyarak sistem güvenliğini artırı
 - Uçuş/kontrol kartı (Pixhawk) için ayrı XT60-P güç girişi
 
 ## Kullanılan Araçlar
-Altium Designer 
+Altium Designer (şematik ve PCB tasarımı)
