@@ -1,9 +1,15 @@
 # TEKNOFEST — İnsansız Sualtı Sistemleri: PCB Tasarımları
 
-TEKNOFEST İnsansız Sualtı Sistemleri Takımı'nda **Elektronik Ekip Sorumlusu** olarak, 
+TEKNOFEST İnsansız Sualtı Sistemleri Takımı'nda 1. ve 2. sınıfım boyunca yer aldım ve 
+**Elektronik Ekip Sorumlusu** olarak görev aldım. Bu süreçte sualtı sistemlerinin 
+elektronik tasarımı, üretimi ve entegrasyonu konusunda uçtan uca tecrübe kazandım. 
 Altium Designer kullanarak tasarımını ve üretimini gerçekleştirdiğim PCB'ler bu depoda 
 yer almaktadır. Her kart, sualtı aracının güvenli ve kararlı çalışmasına yönelik farklı 
 bir işlevi üstlenmektedir.
+
+![Araç](gorseller/arac-2.png)
+![Araç](gorseller/arac-3.png)
+![Araç](gorseller/arac-4.png)
 
 ## Projeler
 
