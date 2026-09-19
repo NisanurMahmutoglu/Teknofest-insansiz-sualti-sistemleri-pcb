@@ -1,10 +1,17 @@
 # Manyetik Anahtar
 
 İnsansız sualtı aracının güç sistemini manyetik alan tabanlı olarak güvenli şekilde 
-açıp kapatan bir anahtarlama kartıdır. Sistem, bir mıknatısın Hall sensörü üzerindeki 
-manyetik alanını algılamasıyla çalışır; mıknatıs yerinde olduğu sürece güç sistemi aktif 
-kalır, mıknatıs yerinden ayrıldığında (manyetik alan kaybolduğunda) güç anında kesilir ve 
-araç güvenli bir şekilde kapanır.
+açıp kapatan bir anahtarlama kartıdır.
+
+![3D Render](3D.png)
+![PCB Layout](layer.png)
+
+Sistem, bir mıknatısın Hall sensörü üzerindeki manyetik alanını algılamasıyla çalışır; 
+mıknatıs yerinde olduğu sürece güç sistemi aktif kalır, mıknatıs yerinden ayrıldığında 
+(manyetik alan kaybolduğunda) güç anında kesilir ve araç güvenli bir şekilde kapanır.
+
+## Şematik
+![Şematik](sematik.png)
 
 ## Çalışma Mantığı
 1. **Hall Sensör** manyetik alan değişimini algılar ve bunu dijital sinyale (D0) dönüştürür
@@ -28,4 +35,4 @@ temassız bir açma/kapama çözümüdür.
 | K3 – GDK Çıkışı (XT60) | Güç dağıtım kartına giden çıkış |
 
 ## Kullanılan Araçlar
-Altium Designer 
+Altium Designer (şematik ve PCB tasarımı)
